@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THIS IS A TRIBUTE TO WINDHAM ROTUNDA </title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>THIS IS A TRIBUTE TO WINDHAM ROTUNDA </h1>
+    </header>
+
+    <section>
+        <img src="bray wyatt and the fiend.jpg" alt="BRAY WYATT/THE FIEND">
+        <h2>Introduction</h2>
+        <p>Brayy wyatt(the name I knew him for) was a legend in the wrestling business. He began his career in February 9th 2009. He had a long career from 2009-2022 until his untimely death due to a heart attack in 2023. His impact has inspired and touched the lives of many.</p>
+
+        <h2>Early Life</h2>
+        <p>Windham Lawrence Rotunda was born at the Medical Center in Brooksville, Florida, on May 23, 1987. His younger brother, Taylor, is also a wrestler and is best known for performing under ring name Bo Dallas in WWE. He attended Hernando High School, where he won a state wrestling championship in 2005, the year of his graduation.He also played football as a defensive tackle and guard. Rotunda played at the College of the Sequoias for two seasons, earning second-team All-American honors as a sophomore offensive guard at the California junior college.He earned a football scholarship to Troy University, where he played college football for two years.He left Troy 27 credit hours short of earning a bachelor's degree after deciding to become a professional wrestler.</p>
+
+        <h2>Achievements</h2>
+        <p>Bray Wyatt had some noticable achievements, some of which include; 1 time NXT champion 1 time WWE champion 2 time WWE universal champion 1 time WWE smackdown Tag Team champion with Randy Orton and 1 time Raw Tag Team champion with Matt Hardy</p>
+
+        <h2>Legacy</h2>
+        <p>Beyond his in-ring accolades, which also include being named WWE's top male superstar of 2019 and two-time Florida Championship Wrestling Tag Team champion with his brother, Windham's legacy as a son, husband and father is what his family will remember most about him.</p>
+
+        <h2>Conclusion</h2>
+        <p>In conclusion, Windham Rotunda/Bray wyatt is a source of inspiration and admiration. Their dedication, passion, and contributions have left an indelible mark on the world.</p>
+    </section>
+
+</body>
+
+</html>
