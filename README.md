@@ -1,41 +1,96 @@
-<h1 align="center">Hello 👋, I'm MUTEHERI GRIFFINS</h1>
-<h3 align="center">A passionate GAME DEVELOPER AND DESIGNER from Nairobi, Kenya.</h3>
+<h1 align="center">Hi there, I'm Muteheri Griffins! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhavii&label=Profile%20views&color=0e75b6&style=flat" alt="muhavii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhavii" alt="muhavii" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/muhavi_" target="blank"><img src="https://img.shields.io/twitter/follow/muhavi_?logo=twitter&style=for-the-badge" alt="muhavi_" /></a> </p>
-
-- 🔭 I’m currently working on **a FPS game using UNREAL ENGINE**
-
-- 🌱 I’m currently learning **DJANGO**
-
-- 👯 I’m looking to collaborate on **GAME DEVELOPMENT**
-
-- 💬 Ask me about **WEB 3, GAME DEV AND DESIGN, WEB DEV**
-
-- 📫 How to reach me **griffinsmuhavi@gmail.com**
-
-- 📄 Know about my experiences [https://Muhavii.github.io](https://Muhavii.github.io)
-
-- ⚡ Fun fact **I LOVE GAMINGGG!!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muhavi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhavi_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhavi griffins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhavi griffins" height="30" width="40" /></a>
-<a href="https://fb.com/muhavi griffins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhavi griffins" height="30" width="40" /></a>
-<a href="https://instagram.com/muhavii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhavii_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fpsmuhavii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fpsmuhavii" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhavii&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhavii&theme=radical" alt="GitHub streak stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/muhavi_">
+    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/muteheri-griffins-32944525b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFQUXUsY2T8y%2FyRu5IY1t0g%3D%3D">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <a href="mailto:griffinsmuhavi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhavii&show_icons=true&locale=en&layout=compact" alt="muhavii" /></p>
+<h2 align="center">About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhavii&show_icons=true&locale=en" alt="muhavii" /></p>
+<p align="center">
+  🌍 Based in <strong>[Nairobi, Kenya]</strong><br>
+  💻 Software Developer at <strong>[Zetech University]</strong><br>
+  🎓 Undergraduate from <strong>[Zetech University]</strong> persuing a degree in <strong>[Computer Science]</strong><br>
+  🌱 Currently learning <strong>[Cyber Security]</strong><br>
+  💬 Ask me about <strong>[Game Development and designing, Related languages and the Engines used]</strong><br>
+  📫 How to reach me: <strong>[griffinsmuhavi@gmail.com]</strong>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhavii&" alt="muhavii" /></p>
+<h2 align="center">🔧 Technologies & Tools</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" alt="VS Code" />
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h2 align="center">🎵 Spotify Playlists</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/3dzcbaCcg31kEgaJAvzOk6?si=be628ac796004598">
+    <img src="https://img.shields.io/badge/-Chill%20Beats-1DB954?style=flat&logo=spotify&logoColor=white" alt="Chill Beats Playlist" />
+  </a>
+
+</p>
+
+<h2 align="center">🌟 Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Muhavii/project-1">
+    <img src="https://img.shields.io/badge/-Project%201-333333?style=flat&logo=github" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Muhavii/project-2">
+    <img src="https://img.shields.io/badge/-Project%202-333333?style=flat&logo=github" alt="Project 2" />
+  </a>
+  <a href="https://github.com/Muhavii/project-3">
+    <img src="https://img.shields.io/badge/-Project%203-333333?style=flat&logo=github" alt="Project 3" />
+  </a>
+</p>
+
+<h2 align="center">💬 Random Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
+
+<h2 align="center">📅 Current Time</h2>
+
+<p align="center">
+  <img src="https://worldtimeapi.org/api/timezone/Etc/UTC" alt="Current Time" />
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just have a chat.
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Muhavii.Muhavii" alt="Visitors" />
+</p>
