@@ -45,7 +45,7 @@
   <a href="https://www.youtube.com/@fpsmuhavii_">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.tiktok.com/@muhavii">
+  <a href="https://www.tiktok.com/@muhaviii">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm">
