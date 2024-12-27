@@ -39,13 +39,13 @@
   <a href="https://www.linkedin.com/in/muteheri-griffins-32944525b">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_handle">
+  <a href="https://www.instagram.com/muhavii_">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel">
+  <a href="https://www.youtube.com/@fpsmuhavii_">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.tiktok.com/@your_tiktok_handle">
+  <a href="https://www.tiktok.com/@muhavii">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm">
