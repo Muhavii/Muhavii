@@ -24,8 +24,8 @@
 - 🌱 **Currently learning:** Cybersecurity  
 - 💬 **Ask me about:** Game development, engines, and languages  
 - 🌐 **Expertise:** Web 3 and Blockchain technologies  
-- 💡 **Interested in Crypto Technologies:** Creator of an **NFT Market**  
-- 🔧 **Full Stack Developer:** Proficient in **MongoDB** and **PostgreSQL**  
+- 💡 **Interested in Crypto Technologies:** Creator of a **Blockchain Based Voting System Dapp using crypto tech**  
+- 🔧 **Full Stack Developer:** Proficient in **HTML, CSS, JS** and **Node.js, PHP, MYSQL**  
 - 🧠 **Creative Mind:** Game concepts inspired by vivid dreams  
 - 🧱 **Passionate About:** Building immersive games with unique mechanics and art  
 - ✍️ **Writing/Content:** Documenting ideas, systems, and stories for future devs  
@@ -40,7 +40,7 @@
   <a href="https://twitter.com/muhavi_"><img src="https://img.shields.io/twitter/follow/muhavi_?style=social" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/muteheri-griffins-32944525b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/muhavii_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@fpsmuhavii_"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@muhavii"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.tiktok.com/@muhaviii"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm"><img src="https://img.shields.io/badge/-Vibe%20Zone-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" /></a>
   <a href="mailto:griffinsmuhavi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -65,7 +65,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Assembly-000000?style=flat&logo=protonmail&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
