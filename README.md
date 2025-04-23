@@ -1,3 +1,5 @@
+<div style="font-family:'Times New Roman', Times, serif; font-size:12px;">
+
 <h1 align="center">Hey there, I'm Muteheri Griffins! 👋</h1>
 
 <p align="center">
@@ -7,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Muhavii&title=Profile%20Views&edge_flat=true&style=for-the-badge&color=ff69b4" alt="Visitors Badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Muhavii" alt="Visitor Badge" />
 </p>
 
 ---
@@ -130,6 +132,10 @@
 
 ---
 
+<h2 align="center">💬 Thank You!</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&width=500&lines=Thanks+for+visiting!+Feel+free+to+connect+and+collaborate!+🚀" alt="Thank You Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=12&duration=3000&pause=1000&color=4CAF50&width=500&lines=Thanks+for+visiting!+Feel+free+to+connect+and+collaborate!+🚀" alt="Thank You Typing Animation" />
 </p>
+
+</div>
