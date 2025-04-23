@@ -33,6 +33,8 @@
 - 🌐 **Expertise:** Web 3 and Blockchain technologies  
 - 💡 **Interested in Crypto Technologies:** Creator of an **NFT Market**  
 - 🔧 **Full Stack Developer:** Proficient in **MongoDB** and **PostgreSQL**  
+- 🧠 **Creative Mind:** Game concepts inspired by vivid dreams  
+- 🧱 **Passionate About:** Building immersive games with unique mechanics and art  
 - 📫 **Reach me:** [griffinsmuhavi@gmail.com](mailto:griffinsmuhavi@gmail.com)  
 
 ---
@@ -118,11 +120,3 @@
 <p align="center">
   <strong>Thanks for visiting! Feel free to connect and collaborate! 🚀</strong>
 </p>
-
----
-
-<h2 align="center">💬 Thank You!</h2>
-
-<p align="center" style="font-family:'Brush Script MT', cursive; font-size:12px;">Thanks for visiting! Feel free to connect and collaborate! 🚀</p>
-
-</div>
