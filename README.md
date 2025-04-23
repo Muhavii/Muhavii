@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm">
-    <img src="https://img.shields.io/badge/Spotify-Chill%20Beats-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/-Vibe%20Zone-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
   <a href="mailto:griffinsmuhavi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
@@ -102,9 +102,18 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/3dzcbaCcg31kEgaJAvzOk6?si=be628ac796004598">
-    <img src="https://img.shields.io/badge/Spotify-Chill%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Beats Playlist" />
+    <img src="https://img.shields.io/badge/Spotify-Vibe%20Zone-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Beats Playlist" />
   </a>
 </p>
+
+---
+
+<h2 align="center">💬 Thank You!</h2>
+
+<p align="center">
+  <strong>Thanks for visiting! Feel free to connect and collaborate! 🚀</strong>
+</p>
+
 
 ---
 
