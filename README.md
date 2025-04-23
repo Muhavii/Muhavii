@@ -1,4 +1,9 @@
-<div style="font-family:'Brush Script MT', cursive; font-size:12px;">
+<style>
+  body {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 12px;
+  }
+</style>
 
 <h1 align="center">Hey there, I'm Muteheri Griffins! 👋</h1>
 
@@ -9,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Muhavii&title=Profile%20Views&edge_flat=true&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Muhavii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 ---
@@ -28,7 +33,6 @@
 - 🌐 **Expertise:** Web 3 and Blockchain technologies  
 - 💡 **Interested in Crypto Technologies:** Creator of an **NFT Market**  
 - 🔧 **Full Stack Developer:** Proficient in **MongoDB** and **PostgreSQL**  
-- 🧠 **Smart Contract Developer:** Experienced in **Solidity**, Ethereum dApp development, and writing secure, optimized blockchain logic  
 - 📫 **Reach me:** [griffinsmuhavi@gmail.com](mailto:griffinsmuhavi@gmail.com)  
 
 ---
@@ -52,7 +56,7 @@
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Chill%20Beats-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
   <a href="mailto:griffinsmuhavi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
@@ -84,7 +88,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=ethereum&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge|-Smart%20Contracts-008000?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts" />
+  <img src="https://img.shields.io/badge/-Smart%20Contracts-008000?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts" />
 </p>
 
 ---
@@ -103,16 +107,16 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/3dzcbaCcg31kEgaJAvzOk6?si=be628ac796004598">
-    <img src="https://img.shields.io/badge|-🎧%20Chill%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Beats Playlist" />
+    <img src="https://img.shields.io/badge/Spotify-Chill%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Beats Playlist" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">💬 Random Quote</h2>
+<h2 align="center">💬 Thank You!</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <strong>Thanks for visiting! Feel free to connect and collaborate! 🚀</strong>
 </p>
 
 ---
