@@ -1,10 +1,3 @@
-<style>
-  body {
-    font-family: 'Brush Script MT', cursive;
-    font-size: 12px;
-  }
-</style>
-
 <h1 align="center">Hey there, I'm Muteheri Griffins! 👋</h1>
 
 <p align="center">
