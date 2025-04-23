@@ -96,15 +96,6 @@
 
 ---
 
-<h2 align="center">🚀 Extras You Could Add</h2>
-
-- 🧪 Personal projects section (maybe with gifs or screenshots)
-- 🎮 Game demos or dev logs
-- ✍️ Blog posts or YouTube tutorials
-- 🗃️ Public APIs or smart contracts you've deployed
-- 🤖 AI or ML models you've played with
-- 🌐 Portfolio site link
-
 ---
 
 <h2 align="center">💬 Thank You!</h2>
