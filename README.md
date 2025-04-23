@@ -1,15 +1,15 @@
-<div style="font-family:'Times New Roman', Times, serif; font-size:12px;">
+<div style="font-family:'Brush Script MT', cursive; font-size:12px;">
 
 <h1 align="center">Hey there, I'm Muteheri Griffins! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Game+Designer+%26+Enthusiast;Cybersecurity+Explorer;Full+Stack+Developer;Blockchain+%26+Crypto+Technologist;Always+Learning+%26+Innovating" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Game+Designer+%26+Enthusiast;Cybersecurity+Explorer;Full+Stack+Developer;Blockchain+%26+Crypto+Technologist;Always+Learning+%26+Innovating" alt="Typing Animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Muhavii" alt="Visitor Badge" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Muhavii&title=Profile%20Views&edge_flat=true&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
 ---
@@ -84,23 +84,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=ethereum&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/-Smart%20Contracts-008000?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhavii&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">📊 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhavii&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://img.shields.io/badge|-Smart%20Contracts-008000?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts" />
 </p>
 
 ---
@@ -119,7 +103,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/3dzcbaCcg31kEgaJAvzOk6?si=be628ac796004598">
-    <img src="https://img.shields.io/badge/-🎧%20Chill%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Beats Playlist" />
+    <img src="https://img.shields.io/badge|-🎧%20Chill%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Chill Beats Playlist" />
   </a>
 </p>
 
@@ -135,8 +119,6 @@
 
 <h2 align="center">💬 Thank You!</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=12&duration=3000&pause=1000&color=4CAF50&width=500&lines=Thanks+for+visiting!+Feel+free+to+connect+and+collaborate!+🚀" alt="Thank You Typing Animation" />
-</p>
+<p align="center" style="font-family:'Brush Script MT', cursive; font-size:12px;">Thanks for visiting! Feel free to connect and collaborate! 🚀</p>
 
 </div>
