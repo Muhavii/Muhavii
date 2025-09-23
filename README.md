@@ -51,7 +51,7 @@
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,react,nodejs,git,docker,kubernetes,vscode,unity,unrealengine,mongodb,postgresql&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nodejs,python,unity,unrealengine,mongodb,postgresql&theme=light" alt="Tech Stack" />
 </p>
 
 ---
@@ -59,17 +59,16 @@
 <h2 align="center">📜 Languages I've Mastered</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Smart%20Contracts-008000?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
 </p>
 
 ---
@@ -77,9 +76,22 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhavii&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhavii&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical" />
+  <a href="https://github.com/Muhavii">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhavii&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Muhavii">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhavii&theme=radical" />
+  </a>
+</p>
+
+<h3 align="center">🔥 Most Used Languages</h3>
+
+<p align="center">
+  <a href="https://github.com/Muhavii">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=800" />
+  </a>
+  <br>
+  <small>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</small>
 </p>
 
 ---
