@@ -18,19 +18,15 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Hello Gif" />
 </p>
 
-- 🌍 **Based in:** Nairobi, Kenya  
-- 💻 **Software Developer at:** Zetech University  
-- 🎓 **Education:** Pursuing a degree in Computer Science  
-- 🌱 **Currently learning:** Cybersecurity  
-- 💬 **Ask me about:** Game development, engines, and languages  
-- 🌐 **Expertise:** Web 3 and Blockchain technologies  
-- 💡 **Interested in Crypto Technologies:** Creator of a **Blockchain Based Voting System Dapp using crypto tech**  
-- 🔧 **Full Stack Developer:** Proficient in **HTML, CSS, JS** and **Node.js, PHP, MYSQL**  
-- 🧠 **Creative Mind:** Game concepts inspired by vivid dreams  
-- 🧱 **Passionate About:** Building immersive games with unique mechanics and art  
-- ✍️ **Writing/Content:** Documenting ideas, systems, and stories for future devs  
-- ⚙️ **Workflow:** Agile + Git for daily dev  
-- 📫 **Reach me:** [griffinsmuhavi@gmail.com](mailto:griffinsmuhavi@gmail.com)  
+<p align="center">
+  <strong>"Success is my trademark"</strong>
+</p>
+
+- 💻 **Full Stack Developer** with cybersecurity expertise
+- 🎮 **Game Development Enthusiast** - Pursuing game design as a passionate hobby
+- 🌍 Based in Nairobi, Kenya
+- 🚀 Constantly learning and pushing boundaries in tech
+- 📫 **Let's connect:** [griffinsmuhavi@gmail.com](mailto:griffinsmuhavi@gmail.com)
 
 ---
 
