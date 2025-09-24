@@ -73,10 +73,10 @@
 
 <p align="center">
   <a href="https://github.com/Muhavii">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhavii&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhavii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide_border=true" alt="Muhavii's GitHub Stats" />
   </a>
   <a href="https://github.com/Muhavii">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhavii&theme=radical" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhavii&theme=radical&hide_border=true" alt="Muhavii's GitHub Streak" />
   </a>
 </p>
 
@@ -84,10 +84,14 @@
 
 <p align="center">
   <a href="https://github.com/Muhavii">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=800" />
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=800&exclude_repo=github-readme-stats" alt="Muhavii's Top Languages" />
   </a>
   <br>
   <small>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</small>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhavii&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
