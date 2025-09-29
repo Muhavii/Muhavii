@@ -34,13 +34,12 @@
 <summary><h2 align="center">🔗 Connect With Me</h2></summary>
 
 <p align="center">
-  <a href="https://twitter.com/muhavi_"><img src="https://img.shields.io/twitter/follow/muhavi_?style=social" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/muteheri-griffins-32944525b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/muhavii_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@muhavii"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@muhaviii"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm"><img src="https://img.shields.io/badge/-Vibe%20Zone-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" /></a>
-  <a href="mailto:griffinsmuhavi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://muhavi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+  <a href="mailto:griffinsmuhavi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 </details>
 
