@@ -30,7 +30,8 @@
 
 ---
 
-<h2 align="center">🔗 Connect With Me</h2>
+<details>
+<summary><h2 align="center">🔗 Connect With Me</h2></summary>
 
 <p align="center">
   <a href="https://twitter.com/muhavi_"><img src="https://img.shields.io/twitter/follow/muhavi_?style=social" alt="Twitter" /></a>
@@ -41,18 +42,22 @@
   <a href="https://open.spotify.com/user/36dart2bb8acj6r8kyd932kbm"><img src="https://img.shields.io/badge/-Vibe%20Zone-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" /></a>
   <a href="mailto:griffinsmuhavi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+</details>
 
 ---
 
-<h2 align="center">🔧 Technologies & Tools</h2>
+<details>
+<summary><h2 align="center">🔧 Technologies & Tools</h2></summary>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nodejs,python,unity,unrealengine,mongodb,postgresql&theme=light" alt="Tech Stack" />
 </p>
+</details>
 
 ---
 
-<h2 align="center">📜 Languages I've Mastered</h2>
+<details>
+<summary><h2 align="center">📜 Languages I've Mastered</h2></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -66,10 +71,12 @@
   <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
 </p>
+</details>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<details>
+<summary><h2 align="center">📈 GitHub Stats</h2></summary>
 
 <p align="center">
   <a href="https://github.com/Muhavii">
@@ -93,6 +100,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhavii&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+</details>
 
 ---
 
