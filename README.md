@@ -103,14 +103,6 @@
 
 ---
 
-<h2 align="center">🎵 My Spotify Playlists 🎶</h2>
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/3dzcbaCcg31kEgaJAvzOk6?si=be628ac796004598">
-    <img src="https://img.shields.io/badge/Spotify-Vibe%20Zone-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">💬 Thank You!</h2>
