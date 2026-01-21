@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Muteheri Griffins! 👋</h1>
+<h1 align="center">Hey there, I'm Griffins Muteheri! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Game+Designer+%26+Enthusiast;Cybersecurity+Explorer;Full+Stack+Developer;Blockchain+%26+Crypto+Technologist;Always+Learning+%26+Innovating" alt="Typing Animation" />
