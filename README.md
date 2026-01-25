@@ -22,7 +22,7 @@
   <strong>"Success is my trademark"</strong>
 </p>
 
-- 💻 **Full Stack Developer** with cybersecurity expertise
+- 💻 **Full Stack Developer** with cybersecurity interest
 - 🎮 **Game Development Enthusiast** - Pursuing game design as a passionate hobby
 - 🌍 Based in Nairobi, Kenya
 - 🚀 Constantly learning and pushing boundaries in tech
