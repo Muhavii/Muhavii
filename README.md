@@ -1,7 +1,13 @@
 # 🎮 Griffins Muteheri | Muhavii
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Game+Designer+%26+Enthusiast;Cybersecurity+Explorer;Full+Stack+Developer;Blockchain+Technologist;Always+Learning+%26+Innovating" alt="Typing Animation" />
+  <a href="https://github.com/Muhavii">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MUHAVII&fontSize=70&theme=dark" alt="Muhavii Header" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER;GAME+DESIGNER+%26+ENTHUSIAST;CYBERSECURITY+EXPLORER;ALWAYS+LEARNING+%26+INNOVATING" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -10,30 +16,35 @@
 
 ---
 
-### 👤 CHARACTER SELECT
+### 👤 PLAYER PROFILE
 
-| Attribute | Value |
+```yaml
+Character: Muhavii
+Class: Full Stack Developer & Game Designer 🛠️
+HP: ████████████████████ 100% (fueled by coffee ☕)
+Level: 99
+Current Quest: Crafting virtual worlds & building web solutions 🚀
+Guild/Location: Nairobi, Kenya 🌍
+```
+
+| Action | Command |
 | :--- | :--- |
-| **Class** | Full Stack Developer & Game Designer 🛠️ |
-| **Origin** | Nairobi, Kenya 🌍 |
-| **HP / Coffee Level** | 100% (fueled by caffeine) ☕ |
-| **Current Quest** | Building web apps & crafting game mechanics 🚀 |
-| **Portfolio** | [muhavi.vercel.app](https://muhavi.vercel.app/) 🔗 |
-| **Contact** | [griffinsmuhavi@gmail.com](mailto:griffinsmuhavi@gmail.com) ✉ |
+| **Inspect Portfolio** | [muhavi.vercel.app](https://muhavi.vercel.app/) 🔗 |
+| **Send Message** | [griffinsmuhavi@gmail.com](mailto:griffinsmuhavi@gmail.com) ✉️ |
 
 ---
 
-### 🎒 TECH INVENTORY
+### 🎒 SKILL LEVEL & INVENTORY
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,cs,unity,unreal,solidity,mongodb,postgres,html,css&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,cs,unity,unreal,solidity,mongodb,postgres,html,css&theme=dark" alt="Inventory" />
   </a>
 </p>
 
 ---
 
-### 📊 PROFILE ANALYTICS
+### 📊 LEVEL-UP METRICS (STATS)
 
 <p align="center">
   <a href="https://github.com/Muhavii">
@@ -46,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/Muhavii">
-    <img width="90%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=800&exclude_repo=github-readme-stats" alt="Muhavii's Top Languages" />
+    <img width="90%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=800" alt="Muhavii's Top Languages" />
   </a>
 </p>
 
@@ -57,5 +68,5 @@
 ---
 
 <p align="center">
-  <sub>Made with ❤️ and compiled with ☕ by <a href="https://github.com/Muhavii">Muhavii</a></sub>
+  <sub>Press Start to Continue 🚀</sub>
 </p>
