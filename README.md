@@ -48,16 +48,16 @@ Guild/Location: Nairobi, Kenya 🌍
 
 <p align="center">
   <a href="https://github.com/Muhavii">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Muhavii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide_border=true" alt="Muhavii's GitHub Stats" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Muhavii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide_border=true&v=3" alt="Muhavii's GitHub Stats" />
   </a>
   <a href="https://github.com/Muhavii">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=Muhavii&theme=radical&hide_border=true" alt="Muhavii's GitHub Streak" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Muhavii&theme=radical&hide_border=true&v=3" alt="Muhavii's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Muhavii">
-    <img width="90%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=800" alt="Muhavii's Top Languages" />
+    <img width="90%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhavii&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=800&v=3" alt="Muhavii's Top Languages" />
   </a>
 </p>
 
