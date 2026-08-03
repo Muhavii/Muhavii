@@ -51,7 +51,7 @@ Guild/Location: Nairobi, Kenya 🌍
     <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Muhavii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide_border=true&v=3" alt="Muhavii's GitHub Stats" />
   </a>
   <a href="https://github.com/Muhavii">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=Muhavii&theme=radical&hide_border=true&v=3" alt="Muhavii's GitHub Streak" />
+    <img width="49%" src="./streak.svg" alt="Muhavii's GitHub Streak" />
   </a>
 </p>
 
@@ -63,10 +63,4 @@ Guild/Location: Nairobi, Kenya 🌍
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhavii&style=flat-square&color=F75C7E" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <sub>Press Start to Continue 🚀</sub>
 </p>
